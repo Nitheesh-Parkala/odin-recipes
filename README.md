@@ -1,4 +1,5 @@
 # odin-recipes
+https://nitheesh-parkala.github.io/odin-recipes/
 In this project, I have created a collection of recipes using HTML. Each recipe is displayed on a separate page, making it easy for users to browse and find the recipe they are interested in. The project includes the following features:
 
 Responsive design: The recipes are optimized for various screen sizes, ensuring a seamless experience across devices.
